@@ -2,8 +2,12 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/CodeAx1avek/count.svg" />
 </p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+AYUSH....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Teko&weight=300&size=50&pause=199&color=F71FC2&center=true&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+AYUSH....;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewith-yush&label=Profile%20views&color=0e75b6&style=flat" alt="codewith-yush" /> </p>
 
