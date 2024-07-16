@@ -1,4 +1,8 @@
-[![MasterHead](https://t3.ftcdn.net/jpg/06/59/62/08/240_F_659620824_qWeexGjs1XBtd89LzOOdDcSpVQ4H6ZAW.jpg)](https://codewithyush.blogspot.com)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/CodeAx1avek/count.svg" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Codewith-Yush</h1>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif">
 
