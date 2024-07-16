@@ -2,8 +2,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/CodeAx1avek/count.svg" />
 </p>
-
-<h1 align="center">Hi 👋,My name is Ayush</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewith-yush&label=Profile%20views&color=0e75b6&style=flat" alt="codewith-yush" /> </p>
