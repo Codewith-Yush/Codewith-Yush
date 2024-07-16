@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/CodeAx1avek/count.svg" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Codewith-Yush</h1>
+<h1 align="center">Hi 👋,My name is Ayush</h1>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewith-yush&label=Profile%20views&color=0e75b6&style=flat" alt="codewith-yush" /> </p>
