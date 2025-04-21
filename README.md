@@ -11,9 +11,10 @@
 <!--  PROFILE HEADER INTRO (LHS)  -->
 Hello World! 👋
 
-I’ve been a **Software Developer** for about **5 years**, with a passion for creating innovative solutions for **mobile** and **web** platforms.
+I've been a **Computer Science student** and **Data-Analyst in the Making**, with a strong passion for building impactful solutions for **Web** platforms.
 
-💻 With a strong foundation in **JavaScript**, I specialize in crafting seamless user experiences across various technologies.
+💻 With hands-on experience in technologies like **Next.js**, **Tailwind CSS**, **Django**, and **MySQL**, I focus on crafting modern, responsive, and user-friendly applications. 
+
 
 > 🌟 _Beyond my professional work, I’m a **Technical Writer** sharing insights through my **bi-weekly tech blog** [**TECH-SCOOP**](https://codewithyush.blogspot.com), staying plugged into the pulse of the tech world by attending **events, conferences, and meetups** — and recently, I’ve taken the mic myself, **speaking at tech events** and sharing what I’ve learned._
 
