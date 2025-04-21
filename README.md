@@ -15,7 +15,8 @@ I’ve been a **Software Developer** for about **5 years**, with a passion for c
 
 💻 With a strong foundation in **JavaScript**, I specialize in crafting seamless user experiences across various technologies.
 
-🌟 In addition to my professional work, I'm a **Technical Writer** who runs a **bi-weekly newsletter [(Tech Scoop)](https://techscoop.hashnode.dev/)**, actively attends **tech events, conferences, and meetups**, and have recently started **speaking at tech events**.
+> 🌟 _Beyond my professional work, I’m a **Technical Writer** sharing insights through my **bi-weekly tech blog** [**TECH-SCOOP**](https://codewithyush.blogspot.com), staying plugged into the pulse of the tech world by attending **events, conferences, and meetups** — and recently, I’ve taken the mic myself, **speaking at tech events** and sharing what I’ve learned._
+
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-943be7?style=for-the-badge&logo=link&logoColor=white)](https://ayush-portfolio-teal.vercel.app/)
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://codewithyush.blogspot.com)
@@ -96,10 +97,9 @@ I’ve been a **Software Developer** for about **5 years**, with a passion for c
 
 #### Let's connect and collaborate!   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-943be7?style=for-the-badge&logo=link&logoColor=white)](https://lassiecoder.com)
-[![Newsletter](https://img.shields.io/badge/-Newsletter-25463b?style=for-the-badge&logo=inbox&logoColor=white)](https://techscoop.hashnode.dev)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-s-b79401142/)
-[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lassiecoder)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lassiecoder/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lassiecoder@gmail.com)
-
+[![Portfolio](https://img.shields.io/badge/-Portfolio-943be7?style=for-the-badge&logo=link&logoColor=white)](https://ayush-portfolio-teal.vercel.app/)
+[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://codewithyush.blogspot.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-singh-643a4b25a/)
+[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ayushbr58236577?t=kfWBmYNvztBHIH96BbV35Q&s=09)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__yush.22)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushsingh7360@gmail.com)
