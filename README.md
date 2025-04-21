@@ -117,13 +117,23 @@ I'm a **Computer Science student** and **Data-Analyst in the Making**, with a st
 <!--  GITHUB STATS SECTION  -->
 <h2> 📊 GitHub Stats </h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lassiecoder&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&theme=jolly&hide=issues&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lassiecoder&theme=jolly&hide_border=true" width="48%" alt="GitHub Streak" />
+<!--  PIKACHU GIF PLACED STRATEGICALLY  -->
+<div>
+  <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/d377c4aa-e247-422c-8b0f-53145acd7705" align="right" width="15%" alt="pikachu-hi" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=lassiecoder&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&theme=jolly&hide=issues&hide_border=true" width="60%" alt="GitHub Stats" />
 </div>
 
+<div>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnp2bjMwcDBuajltb2lvb3VhcHZtNXdnbDJtZWs5NWMwaHk4Njd2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8A2CLpJJW5d3NR5Tt/giphy.gif" align="left" width="22%" alt="cat-gif" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lassiecoder&theme=jolly&hide_border=true" width="60%" align="right" alt="GitHub Streak" />
+</div>
+
+<br clear="all">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lassiecoder&layout=compact&theme=jolly&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lassiecoder&layout=compact&theme=jolly&hide_border=true" width="60%" alt="Top Languages" />
 </div>
 
 <!--  DIVIDER  -->
@@ -151,12 +161,6 @@ I'm a **Computer Science student** and **Data-Analyst in the Making**, with a st
 
 <!--  DIVIDER  -->
 <img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
-
-<!--  FUN SECTION  -->
-<div align="center">
-  <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/d377c4aa-e247-422c-8b0f-53145acd7705" width="15%" alt="pikachu-hi" />
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnp2bjMwcDBuajltb2lvb3VhcHZtNXdnbDJtZWs5NWMwaHk4Njd2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8A2CLpJJW5d3NR5Tt/giphy.gif" width="22%" alt="cat-gif" />
-</div>
 
 <!--  CONNECT SECTION  -->
 <h2 align="center"> 📫 Let's Connect! <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/> </h2>
