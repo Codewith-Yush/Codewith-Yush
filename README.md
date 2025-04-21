@@ -88,7 +88,7 @@ I've been a **Computer Science student** and **Data-Analyst in the Making**, wit
 </br>
 
 <!--  CAT  -->
-<img align="left" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXgwZ2V1eTczaW50aGVldWZ5aTN1NHE2cDc0OGpjbGp3cGd6Y2cydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fjgqYjVkzfQ9a/giphy.gif" width="22%" alt="pikachu-hi">
+<img align="left" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnp2bjMwcDBuajltb2lvb3VhcHZtNXdnbDJtZWs5NWMwaHk4Njd2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8A2CLpJJW5d3NR5Tt/giphy.gif" width="22%" alt="pikachu-hi">
 
 <!--  LANGUAGES USED  -->
 <p align="right"> <img style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lassiecoder&custom_title=Languages%20I%20have%20used&layout=compact&theme=jolly&hide_border=true&hide_title=true" /> </p>
