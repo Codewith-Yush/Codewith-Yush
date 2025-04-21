@@ -17,8 +17,8 @@ I’ve been a **Software Developer** for about **5 years**, with a passion for c
 
 🌟 In addition to my professional work, I'm a **Technical Writer** who runs a **bi-weekly newsletter [(Tech Scoop)](https://techscoop.hashnode.dev/)**, actively attends **tech events, conferences, and meetups**, and have recently started **speaking at tech events**.
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-943be7?style=for-the-badge&logo=link&logoColor=white)](https://lassiecoder.com)
-[![Newsletter](https://img.shields.io/badge/-Newsletter-25463b?style=for-the-badge&logo=inbox&logoColor=white)](https://techscoop.hashnode.dev)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-943be7?style=for-the-badge&logo=link&logoColor=white)](https://ayush-portfolio-teal.vercel.app/)
+[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://codewithyush.blogspot.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-s-b79401142/)
 [![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lassiecoder)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lassiecoder/)
