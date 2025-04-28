@@ -1,10 +1,8 @@
-<!--  PROFILE BANNER  -->
-<img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88" width="100%" alt="banner">
 
 <!--  ANIMATED GREETING  -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+Ayush+Singh;Welcome+to+my+profile!&center=true&size=25&color=943be7">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,there!+👋;I'm+Ayush+Singh;Welcome+to+my+profile!&center=true&size=25&color=943be7">
   </a>
 </h1>
 
