@@ -104,7 +104,7 @@ I'm a **Computer Science student** and **Data-Analyst in the Making**, with a st
 </br>
 
 <!--  CAT  -->
-<img align="left" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnp2bjMwcDBuajltb2lvb3VhcHZtNXdnbDJtZWs5NWMwaHk4Njd2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8A2CLpJJW5d3NR5Tt/giphy.gif" width="22%" alt="pikachu-hi">
+<img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFlNWYyY3k4a3A0NnBndGV6bjIyOXpka2wzZ3l4Y3Z4cG5mbGV6MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hTBdZxUHG2r0XwLFSL/giphy.gif" width="22%" alt="pikachu-hi">
 
 <!--  LANGUAGES USED  -->
 <p align="right"> <img style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lassiecoder&custom_title=Languages%20I%20have%20used&layout=compact&theme=jolly&hide_border=true&hide_title=true" /> </p>
