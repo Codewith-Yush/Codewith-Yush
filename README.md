@@ -93,7 +93,7 @@ I'm a **Computer Science student** and **Data-Analyst in the Making**, with a st
 </br>
 </br> --->
 <!--  HI PIKACHU  -->
-<img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/d377c4aa-e247-422c-8b0f-53145acd7705" align="right" width="15%" alt="pikachu-hi">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWQ0M3Jqb3JoaGs0bDdsazQyZG15Y216eWhqZjlqZjF0YXd4MXF2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBwdIuRJiAIqHwA/giphy.gif" align="right" width="15%" alt="pikachu-hi">
 
 <!--  MY GITHUB STAT  -->
 <p>  <img src="https://github-readme-stats.vercel.app/api?username=lassiecoder&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> </p>
